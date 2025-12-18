@@ -1,0 +1,14 @@
+# Arquivos compilados
+/out/
+/target/
+*.class
+
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Arquivos de sistema (Mac/Windows)
+.DS_Store
+Thumbs.db
