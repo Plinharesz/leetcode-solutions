@@ -47,4 +47,4 @@ Key patterns practiced in this repo:
 Feel free to reach out if you have any questions about the solutions!
 
 ---
-*Created by [Seu Nome]*
+*Created by Pedro Linhares*
