@@ -13,7 +13,3 @@ public class ContainsDuplicate_BruteForce {
         return false;
     }
 }
-
-
-
-Arrays.
